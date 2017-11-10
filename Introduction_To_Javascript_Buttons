@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Hello, this is my first JavaScript project</h2>
+
+<p id="demo">Here's the first lesson of what I can do with a button.</p>
+
+<button type="button" onclick='document.getElementById("demo").innerHTML = "Beep! Beep!"'>Beep!</button>
+
+</body>
+</html>
