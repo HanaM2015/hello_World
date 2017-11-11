@@ -1,0 +1,110 @@
+/* author: Hana Masters 
+   Oct. 2016*/ 
+
+
+
+body, h1, h2 {
+		padding: 0; 
+		border: 0;
+		margin:0; 
+	
+}
+
+.container{ 
+	background-color:	#F4F4F4; 
+	outline-style: solid; 
+	outline-color: #96858F; 
+	
+
+}
+
+h1 {
+	color: #6D7993;
+	font-size: 3.5em;
+	font-weight: bold;
+}	
+
+h2 {
+	font-size: 2.5em;
+	font-weight: bold;
+	text-align: center;
+	 
+	
+}
+
+.lavender {
+		color: #6D7993; 
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #96858F;
+}
+
+
+
+li a {
+    display: block;
+    color: #F4F4F4;
+    text-align: center;
+    padding: 1em 2em;
+    text-decoration: none;
+	font-size: 1.3em;
+	float: left; 
+}
+
+
+li a:hover {
+    background-color: #C0B283;
+}
+
+
+body {
+		margin-top: 1em;
+		background-color: #DCD0C0;
+		padding: 2em 2em 2em;
+}
+
+header { 
+		border: 5em double;
+		border-color: #C0B283; 
+		margin: 1em; 
+		padding: 3em 3em 3em; 
+		text-align: center;
+
+}
+
+img {
+    border-radius: 8px;
+	
+	 
+	
+}
+
+article { 
+		padding-right: 1em;
+		padding-left: 3em;
+		width: 60%; 
+		float: right; 
+		color: #373737;
+		text-align: left;
+		
+}
+
+aside { 
+		padding-left:1em;
+		width: 40%;
+		color: #373737;
+		text-align:left; 
+}
+
+footer { 
+		clear: right; 
+		text-align: center; 
+		color: #96858F; 
+		font-weight: bold;
+		padding: 2em 2em 2em; 
+}
