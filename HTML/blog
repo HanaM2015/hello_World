@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head> 
+		<title> Introduction and index </title>
+		<meta charset="utf-8">
+		<link rel = "stylesheet" href="CSSstylesheet.css">
+	</head> 
+ 
+	<body>
+
+			<header> <h1> Hello World!</h1> </header>
+
+			
+		
+<nav class="sitenavigation">	
+	<ul>
+		<li><a href="index.html">About</a></li>
+		<li><a href="Resume.html">Resume</a></li>
+		<li><a href="http://www.pcc.edu/programs/computer-info/">My Program</a></li>
+	</ul>
+	</nav>	
+		<div class = "container">		
+				<article><h2 class=lavender> Who I am: </h2> 
+						<img src = "me.jpg" alt="Hana photo" width="240" height="280">
+						<img src = "meandTris.jpg" alt="Hana and Tris photo" width="240" height="280">
+						<img src = "meandAce.jpg" alt="Hana and Ace photo" width="280" height="280">
+						<p> It's nice to meet you! My name is Hana.	</p>
+							
+						<p>  I am passionate about dog training. I own a shiba inu, named Ace Ventura. He is a 2 and a half year old cream-colored shiba, 
+							and while he won't win best in breed, he makes up for it by always keeping me on my toes and being a good hiking partner..</p>	
+							
+						<img src="AceVentura.jpg" alt="Ace Ventura The Pet Detective Shiba Inu" width="240" height="280" >
+						<img src="AceLickingtheGlass.jpg" alt="Ace licking window" width="240" height="280">
+						<img src="Aceasleep.jpg" alt="Ace asleep" width="280" height="280">
+				</article> 
+						
+						
+				<aside> <h2 class=lavender> Things I like to do:</h2> 
+																	
+						<p>	 I am a huge horror movie buff, and I spend a lot of time watching terrible B rated monster films on netflix on rainy days. I am also an avid hiker,
+							and have hiked part of the Pacific Coast Trail. I am a little disappointed because this summer I had hoped to hike it completely, but I figure that 
+							is what next year is for! Either way, I am very happy to have a plethora of wonderful hiking trails nearby on the not-so-rainy days.  
+							</p>
+						
+							
+							My top three recommended films on netflix right now are: 
+							<ol>
+							<li> Housebound </li>
+							<li> Witching and Bitching </li>
+							<li> Tucker and Dale Vs. Evil </li></ol> 
+							
+							For monster movies, I recommend: 
+							<ol>
+							<li> Monsters </li>
+							<li> Zombeavers </li>
+							<li> Troll Hunter </li></ol> 
+							
+							
+						<p>	Netflix has a huge selection of Nicholas Cage movies as well, so for fun I highly recommend checking out any of his films. They may not have a huge budget, but he does
+							a great job committing to his roles to the point where, dare I say, he might be a National Treasure?
+												
+							</p> 
+							
+						
+				</aside>
+			<footer> @HanaMasterspractice </footer>
+		</div>
+	
+	</body>
+
+
+
+
+
+
+
+ </html>
